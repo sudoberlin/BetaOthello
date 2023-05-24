@@ -1,5 +1,7 @@
 # BetaOthello
 
+![](/StatsProject/demo.png)
+
 ## Project Structure
 
 ```
