@@ -22,4 +22,4 @@
 
 ```
 
-#### Demo Link - ![](/StatsProject/demo.mp4)
+#### Demo- ![](/StatsProject/demo.mp4)
