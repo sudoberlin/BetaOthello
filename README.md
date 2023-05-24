@@ -22,7 +22,7 @@
 
 ```
 
-#### Demo- ![](/StatsProject/demo.mp4)
+## Demo
 
 
 https://github.com/sudoberlin/BetaOthello/assets/45774470/69656d6b-8c99-4836-be63-573ed0f77328
