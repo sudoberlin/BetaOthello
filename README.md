@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python train.py
 ```
 
-`train.py` trains the agent from scratch and prints the loss for each fit. A self-play game takes a few tens of seconds on CPU, because every candidate move is a separate forward pass.
+`train.py` trains the agent from scratch and prints the loss for each fit. A self-play game took 20 to 30 seconds in the notebook run, because every candidate move is a separate forward pass.
 
 To play against the agent, open `StatsProject/othello.ipynb`, run the cells in order, and enter your move as `row col` (zero-indexed, for example `2 3`) when prompted. You play black and move first. The notebook also assembles the game into a video.
 
