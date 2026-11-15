@@ -1,0 +1,9 @@
+# Keras 2 era stack. The variational layers do not work with Keras 3 (TensorFlow 2.16+).
+tensorflow<2.16
+tensorflow-probability<0.24
+numpy<2
+matplotlib
+opencv-python
+pillow
+tqdm
+mediapy  # notebook only, for the game video
